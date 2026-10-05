@@ -1,0 +1,8 @@
+<?php
+
+define('REVIEWS_IBLOCK_ID', 5);
+define('REVIEWS_AUTHOR_PROPERTY', 'AUTHOR');
+define('AUDIT_TYPE_REVIEWS', 'ex2_590');
+
+define('AUTHOR_CLASS_FIELD', 'UF_USER_CLASS');
+define('AUTHOR_INFO_EVENT', 'EX2_AUTHOR_INFO');
